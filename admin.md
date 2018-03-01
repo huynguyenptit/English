@@ -43,12 +43,22 @@ Hệ thống phân quyền trên Wordpress mặc định được chia thành 6 
  - Contributor – Nhóm này sẽ có quyền viết bài mới nhưng không được phép đăng lên mà chỉ có thể gửi để xét duyệt (Save as Review) và quản lý post của họ.
 Subscriber – Người dùng trong nhóm này chỉ có thể quản lý thông tin cá nhân của họ.
 Tuy nhiên, bạn có thể quản lý và phân quyền lại các nhóm người dùng cũng như tạo thêm các nhóm người dùng mới với các plugin hỗ trợ như Advanced Access Manager.
+
+Danh sách các permission ứng với các role trên wordpress :
+![alt text](https://lh3.googleusercontent.com/XHl4jyI4_SBa6Wlm2wDj21bUuppkoqTSitqPb7RBF8mUC7xH_vnd6nxo6L3596cPK6zN8LZ4_WmC6HQK6nkEVKTf3NfhbtuV4hCEJ8aCPsW8wsbpvSSmqiT_QvD6s6C_OiGVMLh_fVGcn43C25ODyTx4xzyvaqWLgvOtYj5FQ_CWBmdfQZrwJ7KEyL8b2Ss6GWTPgqgQlN9X4IA9qmHxg4oCaHU5a2ypYECpUc3uieLD-Tw4T_H15Y23KK2ygtVRPqKXtDC00RImyTwQigGczSe4pQUOylH7Hz43XAI95vjcK6_kz901mZL04nspQg4mVGZbTkyFjLBSytt6LGPFX_0c8ifQ3eaVTv70QCuPJtJfagpNP4djwCZY0Kgd5deLAAVjWvzbkNscTR-oKmJ9F4n3-GYy2fVFOnYa8cT21cQ6IbzjRxZZwjbIlfc0bT6HXIuXItEeZ6batn_w3k7v2bsBwxzpXbkVqvmKY3GbrauprEoxswnjljqUi996PEGK5VaFG8BPOgNw3WgtDKivgwGBUgqUfGyC7oxAOWJluQO5D_s3ZJQM7p9f1LYKDB60bMb1dT5tNmI3qVX2Qvn9rxENFR2rghJ1wHz18bU=w781-h422-no)
+![alt text](https://lh3.googleusercontent.com/ZUSheFr7cW_uKQ2K_DYx_OK736gUbbgpBXJDoucG84VbhrCROGBokTNyjTBcrcyOU65ExuOQ-Z60hqvU2cLY1Umkxjxjw6Gwi9Y30Fsc2hs_InzRffUIbf9sSwN3UJxQidlBk-8GyvE9Sk2bZ-tHTJvq-zjlxJZXi75U2wqRAYRmjFNKox3m_6i9OYQWDS9L9r-a0NKw7dBBLBCGasX8Yz79HRnal0KeN7k-q3XWWcAoDx1bLknRa_xQ4fxodTSHecThm5B3ltlCNLSZjpXL2ONlJKmcBNQXOWfSyvlr6oZicBH6d9T-KlrFpnYY-jjIQxpCAt4NF5PeNezsYampP6cSdRqOUONrhO5M3BZXN9oQ_zf99VSVdVDQcDc2X1rEvIQOONcFx-v9YjlcknBmJUFFxyMfC6uhuqHMrIAgHMGoG5oKvKz_xXV1Z5W48jWmeD_naLsacGckzR6fPtfJIcVSlyZN_zxnJhzK3dnYLSsaUXGQZbi0u2t936N-H1ZPmeUGH6xPAXXmp3gpcI70skpT8X84JlSbRr-va3GDAHnSv4GGZgZkTqHTHX32dXR2bejwjkWczqzfvqS0RslUahUZ2Pf5Jmpd1K3o57k=w779-h591-no)
+![alt text](https://lh3.googleusercontent.com/Rh7fF3h3eovpJvC5vE0QjUhPLcw4629-IUEeQr8Zd50ZQ-g7M8Iwly-Ecoo-jsWrOHDOigY9OE5CQual-WlR603Wdw9-XIA6OsPOYdLOz-JtK15NCFLTQQjg_iaI0odsTjZM3JFp_JNIojLxaKBG99Yvo_AOtlJ70i4J3sHRcf_5ySZwx8IwiuyfbjNCsGtlantpAUWLkT14MasEEYs6Sjx5-S1szP8m35VzSpsEiqukNX-bR5XQHh4NlKrx8hzIyA8Tj0Aa_0Sfxx6vT0LOTowDFMcThNI5NXZzqkfvNxxaQ6n1hsLhBBMR-M8x65BtZGMC2UWQp2-nX1sYSHc1ybrQDzbvYeePQ-c7sAY-v9eNSuvhXuQ8zEgDuau86LhQzZlMkvM762Yg3zBohwHnju94_uYOYsfAlPtvlJyaV5vsx7Mq0xikq0QJ_BNCSB6WOIc8cW2ciC6eL6qU3DqFbaKtuUqZwi0zE7pqead-OK7giYdO9fxGpa5DKbp7ewYrE4MVQPmQd6SO8Vp2UEokiB8QvEYml13UDQjxC5RKrf3YNwBa5Blcbg4dvPEubHITjtDdNTI813ZAFzNBqSt65eIm2K9Boi6NoFOHIfE=w776-h614-no)
+![alt text](https://lh3.googleusercontent.com/21gfuHFBh3w9dAYxGoUkTEpYb3NFKC8yf3rWOX6BQaCDh2WVIdzHQAMMdmIX6GUb0T-oyklh0ieuEqzfzgq6ieACZQUICA7W5YR0d6z3ZUKfD_HJsMVzl8ecpf8-Kav5SHp3iv6XV4oH7RIFGfYOS243HYcHsqpwBct8R7kxsZuBuTCL_69kHNK9vm-8kKfi42P9m34fcBgmAgHWghxp0XXx2qqdGrIaPp6Mg06-BhH7lGbwOkDUVPYaRjeTsN2hjtsLMhCuXMWO2Glk65ZvYbRqZn4GZQeY5h1jQBGfUvUK6B9gNnqC2liH9LpXygyFxQDf_OO26FuMdfXEwfEHMEjs_D4EA7KDk0B9tl9rcaQwzksvXcGmuAOOAWba3vAM2HZDObcbE68XTQ6oH5FCn9FLNXvp2Lxn8in_1CwseJb12vsudtok_x7P7XUIRE-rcpostX4BLzJD6Bzem2NboF12cm4YcRP-IOMHMOi2aPC1vHFjebL3VvyB-ASr3PiAqvj_PdGesEx-6a8tx34nvbJVE--I_JIfSDQoUSu_Jr3-CRImEHd00mtAs45PpzrNx20RTNpax4RwRJlAM8uRMysyJoGdge1SyiO2g50=w778-h617-no)
+![alt text](https://lh3.googleusercontent.com/WuloO-tPjPpzCkoj-dTX-ZrrY1oVxwRWHx7uLqeljHbBx7kgoYAnDSJa4-WeqjfpANqFHqj3TcXjCfg7UZg_Y3DVnkjkeZbmhclUDXarj-dIXKZT_Bnf_2IdYoHZjDYy5r767z6ByqN0ohK-8c2byZZCKIyNBC-gtt6G64IEe7n4RtNIfYkXKrJDYs8R4oePA2aRzzSqKkjpFQEeYekM4uW9d_KmjQxCPFJoN3Xl30Y6m9RMgvJTPASFHY6hWEc1xgCU_lMoWGO682_IdGgsoJ-SyqPUc8Gy04jJdj2EubgsDPT80rxzznDdoNHFjoGsefo5UeLdvqezRrMNDml-bicCn9hYvkeE7DXzP1zWJXnKHKmSqR5-_cgW3u5G_7vWlEaQzqpxQ7vQUfIT34tXMjS5V-2W0c6BU_uDuNQvjwDyhypN-iN-AVB-BDcByxruCeO7wX116e61hBHVZwbOr5yHyGdiJDiOxBIxC3EM2h7KpzcVpJP06urQbe7fDaR-XyY8ONz3coBxjqAccBy-MDKUAfFzlGdAus8YbwceSc_I2eXjvn1PU0dMeJ-Oq1JFi4HLajgHC7SuRp_WBeXURcGRmwGD5WvBDME4SMA=w781-h425-no)
 ###### c.rappasoft/laravel-5-boilerplate:
-Laravel 5 boilerplate sử dụng Laravel Permission để quản lý các role và permission cũng như gán quyền cho người dùng/ nhóm người dùng. Laravel Permission không có quyền mặc định nào cả. Bạn sẽ tự định nghĩa các quyền rồi gán các quyền cho người dùng.
+Laravel 5 boilerplate sử dụng Laravel Permission để quản lý các role và permission cũng như gán quyền cho người dùng/ nhóm người dùng. Laravel Boilerplate chỉ có 1 permission mặc định là viewbackend, và 3 role mặc định là user, executive và admin. Bạn sẽ tự định nghĩa các quyền rồi gán các quyền cho người dùng.
+
+###### *  So sánh:
+ 
 || Fb Fanpage           | Wordpress  | Laravel Boilerplate  |
 | ------------- |:-------------:| -----:| -----:|
-| Có các luật mặc định|Y|Y|N|
-| Có thể chỉnh sửa luật|N|Y|Y|
+| Có các luật mặc định|Y|Y|Y(gần như sơ khai)|
+| Có thể chỉnh sửa luật|N|Y(plugin)|Y(direct)|
 | Tổ chức luật dạng ô |N|Y|N|
 #### 5. Trải nghiệm
  - Hợp lý:
