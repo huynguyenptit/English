@@ -232,7 +232,7 @@ Cách khác là, sử dụng `justify-content: space-around` để phân bố c�
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Needs prefixes for full support.</span>
+<span class="snippet__support-note">⚠️ Cần tiền tố để hỗ trợ đầy đủ.</span>
 
 * https://caniuse.com/#feat=flexbox
 
@@ -285,7 +285,7 @@ Cách khác là, sử dụng `justify-content: space-around` để phân bố c�
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Needs prefixes for full support.</span>
+<span class="snippet__support-note">⚠️ Cần tiền tố để hỗ trợ đầy đủ.</span>
 
 * https://caniuse.com/#feat=flexbox
 
@@ -639,7 +639,7 @@ Có rất nhiều phần tử mẫu khác mà bạn có thể sử dụng để 
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Scrollbar styling doesn't appear to be on any standards track.</span>
+<span class="snippet__support-note">⚠️ Kiểu thanh cuốn không xuất hiện trên các đường tiêu chuẩn.</span>
 
 * https://caniuse.com/#feat=css-scrollbar
 
@@ -691,8 +691,7 @@ Thay đỏi kiểu của văn bản được chọn.
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Requires prefixes for full support and is not actually
-in any specification.</span>
+<span class="snippet__support-note">⚠️ Yêu cầu tiền tố để hỗ trợ đầy đủ và không thực sự đúng trong bất kỳ hoàn cảnh nào.</span>
 
 * https://caniuse.com/#feat=css-selection
 
@@ -786,7 +785,7 @@ Phần này yêu cầu 1 tập định nghĩa phức tạp để thực hiện �
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Requires prefixes for full support.</span>
+<span class="snippet__support-note">⚠️ Cần tiền tố để hỗ trợ đầy đủ.</span>
 
 * https://caniuse.com/#feat=css-filters
 
@@ -891,7 +890,7 @@ Khiến chữ có màu ch
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Uses non-standard properties.</span>
+<span class="snippet__support-note">⚠️ Sử dụng thuộc tính không chuẩn.</span>
 
 * https://caniuse.com/#feat=text-stroke
 
@@ -971,7 +970,7 @@ Cho phần tử 1 đường viền tương đương 1 pixel thiết bị tự nh
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Needs alternate syntax and JavaScript user agent checking for full support.</span>
+<span class="snippet__support-note">⚠️ Cần cú pháp so le và kiểm tra user agent để hỗ trợ đầy đủ.</span>
 
 * https://caniuse.com/#feat=css-boxshadow
 * https://caniuse.com/#feat=css-media-resolution
@@ -1158,7 +1157,7 @@ Sử dụng mãu sắc phù hợp với nền. Với font lớn hơn, sử dụn
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ The distance of the underline from the text depends on the internal metrics of a font, so you must ensure everyone sees the same font (i.e. no system fonts which will change based on the OS).</span>
+<span class="snippet__support-note">⚠️ Khoảng cách của gạch dưới tới chữ phụ thuộc vào chuẩn đo của font,do vậy bạn phải đảm bảo rằng mọi người đều thấy cùng 1 font (i.e. không có font thấy đổi trên nền OS).</span>
 
 * https://caniuse.com/#feat=css-textshadow
 * https://caniuse.com/#feat=css-gradients
@@ -1207,7 +1206,7 @@ Thuộc tính `all` cho phép bạn đặt lại toàn bộ kiểu(cả thừa h
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ MS Edge status is under consideration.</span>
+<span class="snippet__support-note">⚠️ MS Edge trạng thái đang cđược ân nhắc.</span>
 
 * https://caniuse.com/#feat=css-all
 
@@ -1601,7 +1600,7 @@ Sử dụng semi-transparent `border`cho toàn bộ phần tử, trừ cái làm
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Requires prefixes for full support.</span>
+<span class="snippet__support-note">⚠️ Cần tiền tố để hỗ trợ đầy đủ.</span>
 
 * https://caniuse.com/#feat=css-animation
 * https://caniuse.com/#feat=transforms2d
@@ -1845,7 +1844,7 @@ Khiến nội dung không chọn dược
 
 #### Hỗ trợ trình duyệt
 
-<span class="snippet__support-note">⚠️ Requires prefixes for full support.</span>
+<span class="snippet__support-note">⚠️ Cần tiền tố để hỗ trợ đầy đủ.</span>
 <span class="snippet__support-note">⚠️ This is not a secure method to prevent users from copying content.</span>
 
 * https://caniuse.com/#feat=user-select-none
@@ -1985,8 +1984,8 @@ var y = e.pageY - btn.offsetTop - btn.offsetParent.offsetTop
 
 #### Hỗ trợ trình duyệt
 
-<div class="snippet__requires-javascript">Requires JavaScript</div>
-<span class="snippet__support-note">⚠️ Requires JavaScript.</span>
+<div class="snippet__requires-javascript">Yêu cầu JavaScript</div>
+<span class="snippet__support-note">⚠️ Yêu cầu JavaScript.</span>
 
 * https://caniuse.com/#feat=css-variables
 
